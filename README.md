@@ -3,4 +3,4 @@
 Una colección de apuntes cortos sobre cosas que voy aprendiendo y configurando día a día.
 
 ## Bases de datos
-* [Instalar DBeaver en Ubuntu usando el repositorio APT](linux/instalar-dbeaver-apt.md)
+* [Instalar DBeaver en Ubuntu usando el repositorio APT](bases-de-datos/instalar-dbeaver-apt.md)
