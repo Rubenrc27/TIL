@@ -6,6 +6,7 @@ Una colección de apuntes cortos sobre cosas que voy aprendiendo y configurando 
 * [Implementar Google Maps en Android (Kotlin)](android/implementar-google-maps.md)
 * [Desarrollo Android con React Native y Expo en un Monorepo](android/react-native-expo-en-monorepo.md)
 * [Notificaciones Push con Firebase (FCM) en Android](android/notificaciones-push-firebase.md)
+* [Construcción de un APK con Expo EAS](android/construccion-apk-expo-eas.md)
 
 ## Docker
 * [Configuración de servicios locales con Docker Compose](docker/servicios-locales-compose.md)
