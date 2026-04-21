@@ -7,6 +7,8 @@ Una colección de apuntes cortos sobre cosas que voy aprendiendo y configurando 
 * [Desarrollo Android con React Native y Expo en un Monorepo](android/react-native-expo-en-monorepo.md)
 * [Notificaciones Push con Firebase (FCM) en Android](android/notificaciones-push-firebase.md)
 * [Construcción de un APK con Expo EAS](android/construccion-apk-expo-eas.md)
+* [Control de Pantallas EPD Philips mediante AIDL](android/control-epd-philips-aidl.md)
+* [Comunicación Serial USB con Sensores Nexmosphere](android/comunicacion-usb-serial-nexmosphere.md)
 
 ## Docker
 * [Configuración de servicios locales con Docker Compose](docker/servicios-locales-compose.md)
